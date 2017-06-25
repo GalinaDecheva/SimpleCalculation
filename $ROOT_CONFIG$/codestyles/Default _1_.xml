@@ -1,0 +1,11 @@
+<code_scheme name="Default (1)">
+  <option name="VISIBILITY" value="private" />
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="JAVA">
+    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+    <option name="SPACE_WITHIN_BRACES" value="true" />
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
+</code_scheme>

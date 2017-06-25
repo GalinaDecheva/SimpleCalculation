@@ -1,0 +1,5 @@
+<templateSet group="other">
+  <template name="scri" value="Scanner input = new Scanner(System.in);" description="Scanner input" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
