@@ -4,15 +4,9 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="bfr" value="BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));" toReformat="false" toShortenFQNames="true">
+  <template name="bfr" value="BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_DECLARATION" value="true" />
-      <option name="JAVA_COMMENT" value="true" />
-      <option name="JAVA_STRING" value="true" />
-      <option name="COMPLETION" value="true" />
     </context>
   </template>
 </templateSet>
